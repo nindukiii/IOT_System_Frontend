@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "",   
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "abab": "^2.0.6",
@@ -309,7 +309,6 @@
     "yocto-queue": "^0.1.0",
     "zod": "^3.25.76"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -320,9 +319,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module", 
+  "type": "module",
   "bugs": {
     "url": "https://github.com/nindukiii/IOT_System_Frontend/issues"
   },
-  "homepage": "https://github.com/nindukiii/IOT_System_Frontend#readme"
+  "homepage": "https://github.com/nindukiii/IOT_System_Frontend#readme",
+  "devDependencies": {}
 }
